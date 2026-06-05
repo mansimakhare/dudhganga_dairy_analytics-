@@ -23,7 +23,18 @@ product_list = [
     {'name': 'Butter (100g)', 'category': 'Value-Add', 'price': 55},
     {'name': 'Lassi (200ml)', 'category': 'Drinks', 'price': 25},
     {'name': 'Cheese Slices (10 pack)', 'category': 'Value-Add', 'price': 120},
-    # Add a few more to reach your NUM_PRODUCTS total
+    {'name': 'Flavored Milk (200ml)', 'category': 'Drinks', 'price': 30},
+    {'name': 'Dahi (500g)', 'category': 'Curd & Yogurt', 'price': 60},
+    {'name': 'Skimmed Milk (1L)', 'category': 'Milk', 'price': 55},
+    {'name': 'Makkhan (Butter) (500g)', 'category': 'Value-Add', 'price': 250},
+    {'name': 'Probiotic Yogurt (150g)', 'category': 'Curd & Yogurt', 'price': 45},
+    {'name': 'Chocolate Milk (200ml)', 'category': 'Drinks', 'price': 35},
+    {'name': 'Cheese Block (200g)', 'category': 'Value-Add', 'price': 150},
+    {'name': 'Lassi with Fruit (200ml)', 'category': 'Drinks', 'price': 30},
+    {'name': 'Dahi with Fruit (500g)', 'category': 'Curd & Yogurt', 'price': 70},
+    {'name': 'Toned Milk (500ml)', 'category': 'Milk', 'price': 25},
+    {'name': 'Full Cream Milk (500ml)', 'category': 'Milk', 'price': 30},
+    {'name': 'Paneer Cubes (200g)', 'category': 'Value-Add', 'price': 90}
 ]
 
 # --- 3. GENERATE DATA ---
